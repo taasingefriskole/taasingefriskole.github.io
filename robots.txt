@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /_sections/
+Disallow: /build.sh
+Disallow: /header.html
+Disallow: /footer.html
