@@ -1,22 +1,12 @@
+.hero {
+  margin:-20px;
+  margin-bottom: 0;
+  background-image:url('../img/mark-blur.png');
+  background-size:cover;
+  height:400px;
+}
 
-
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.blur {
+  background-image:url('../img/blur.png');
+  background-repeat: round;
+}
