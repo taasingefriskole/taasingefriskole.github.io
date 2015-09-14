@@ -10,3 +10,7 @@
   background-image:url('../img/blur.png');
   background-repeat: round;
 }
+
+.modal-backdrop {
+  z-index: -1;
+}
